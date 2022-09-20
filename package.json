@@ -47,6 +47,10 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "engines": {
+    "node": "16.14.1",
+    "npm": "8.5.0"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -64,9 +68,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }, 
-  "engines": {
-    "node": "16.14.1",
-    "npm": "8.5.0",
   }
 }
